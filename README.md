@@ -1,11 +1,12 @@
 # Brain Tumor Detection
 
-A brain tumor is an abnormal growth of tissue in the brain or central spine that can disrupt proper brain function. It is the abnormal growth of tissues in brain. If the tumor originates in the brain, it is called a primary brain tumor. Primary brain tumors can be benign or malignant. Benign brain tumors are not cancerous.
-
+Brain tumor is an abnormal growth of cells within the brain or surrounding tissues, categorized as either benign or malignant. They can originate in the brain or spread from elsewhere in the body. Symptoms vary but may include headaches, seizures, vision changes, and personality shifts. Diagnosis involves medical history assessment, physical exams, imaging, and sometimes biopsies. Treatment options depend on tumor type and may include surgery, radiation, chemotherapy, targeted therapy, or immunotherapy. Prognosis varies, with early diagnosis and tailored treatment improving outcomes. Follow-up care and monitoring are often necessary after treatment to manage potential recurrences or side effects.
 
 ## Requirements
 
 opencv
+
+pillow
 
 tensorflow
 
